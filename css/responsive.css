@@ -1,0 +1,239 @@
+@media (min-width: 992px) and (max-width: 1200px) {
+    .containt{
+        width: 970px ;
+    }
+    body{
+        width: 100%;
+        overflow-x: hidden;
+    }
+    img{
+    width: 100%;
+    }
+    .feature-icon h3 {
+        font-size: 15px;
+        color: #fff;
+        display: inline-block;
+        margin-left: 12px;
+    }
+    .cta-text p {
+        color: #fff;
+        font-size: 16px;
+        font-weight: 700;
+        margin-top: 8px;
+        line-height: 25px;
+    }
+    .partner-active.owl-carousel .owl-item img {
+        display: block;
+        width: 80%;
+    }
+    .bemax img {
+        width: 70%;
+    }
+    input[type="submit"] {
+        margin: 0;
+        width: 86.5%;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px){
+    .containt{
+        width: 720px;
+    }
+    img{
+        width: 100%;
+    }
+    .mtb110{
+        margin-top: 110px;
+        margin-bottom: 100px;
+    }
+    .fw{
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .md {
+        display: flex;
+        flex-direction: column;
+        margin: 20px 0;
+    }
+    .half-width {
+        width: 55%;
+        margin: 10px auto;
+    }
+    .center {
+        margin: 0 -15px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .mean-bar {
+        width: 75%;
+        margin: 20px 0;
+    }
+    .cta-text p {
+        margin-top: -7px;
+    }
+    .hire-title {
+        margin: 0 0 35px 0;
+    }
+    .partner-active.owl-carousel .owl-item img {
+        display: block;
+        width: 70%;
+    }
+    .bemax img {
+        margin-bottom: 35px;
+        width: 80%;
+    }
+    .bemax p {
+        color: #999;
+        font-size: 13px;
+        margin-bottom: 20px;
+        line-height: 24px;
+    }
+    .bemax ul li {
+        margin-right: 18px;
+        margin-bottom: 5px;
+    }
+    input[type="email"] {
+        width: 100%;
+    }
+    input[type="submit"] {
+        margin: 0;
+        width: 100%;
+    }
+    footer {
+        background-color: #171A21;
+        padding: 30px;
+    }
+    footer p {
+        font-size: 15px;
+    }
+}
+@media (min-width: 320px) and (max-width: 767px){
+    .containt{
+        width: 100%;
+        padding: 0 15px ;
+    }
+    img{
+        width: 100%;
+    }
+    .md {
+        display: flex;
+        flex-direction: column;
+        margin: 20px 0;
+    }
+    .center {
+        margin: 0 -15px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .half-width{
+        width: 50%;
+    }
+    .full-width {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .mtb110{
+        margin-top: 110px;
+        margin-bottom: 100px;
+    }
+    .ptb70{
+        margin: 70px 0;
+    }
+    .mt20{
+        margin-bottom: 20px;
+    }
+    .mb20{
+        margin-bottom: 20px;
+    }
+    .mean-bar {
+        width: 75%;
+        margin: 20px 0;
+    }
+    .slider-area h4 {
+        font-size: 24px;
+    }
+    .slider-area h2 {
+        font-size: 42px;
+    }
+    .slider-area a {
+        padding: 10px 20px;
+    }
+    .slider-area a:hover {
+        padding: 10px 20px;
+    }
+    .slider-area .owl-dots {
+        left: 42%;
+    }
+    .slider-area .owl-dots button.owl-dot {
+        width: 12px;
+        height: 12px;
+    }
+    .slider-area button.owl-dot.active {
+        width: 15px;
+        height: 15px;
+    }
+    .cta-area {
+        height: 200px;
+    }
+    .cta-button {
+        width: 124px;
+        margin-top: 20px;
+    }
+    .cta-button a {
+        padding: 10px;
+        display: inline-block;
+        width: 100%;
+        text-align: center;
+    }
+    .feature-containt {
+        padding: 20px 20px;
+    }
+    .feature-icon h3 {
+        display: inline;
+        font-size: 17px;
+    }
+    .project-image {
+        width: 334px;
+    }
+    .hire-title {
+        margin:0 0 35px 0;
+    }
+    .bg {
+        display: none;
+    }
+    .blog-img img {
+        width: 100%;
+        height: auto;
+        
+    }
+    .partner-active.owl-carousel .owl-item img {
+        display: block;
+        width: 50%;
+    }
+    .bemax img {
+        margin-bottom: 35px;
+        width: 40%;
+    }
+    .main-footer h3 {
+        margin-top: 25px;
+    }
+    input[type="email"] {
+        width: 100%;
+    }
+    input[type="submit"] {
+        margin: 0;
+        width: 100%;
+    }
+    footer {
+        padding: 20px 0;
+        height: 78px;
+        display: flex;
+        align-items: center;
+    }
+    footer p {
+        font-size: 15px;
+    }
+}
